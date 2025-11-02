@@ -1,0 +1,5 @@
+export const base_url = ""
+export const userUrl = "/api/users"
+export const contactUrl = "/api/contact"
+export const messageUrl = "/api/message"
+export const HOST = "http://localhost:5000"
